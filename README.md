@@ -3,7 +3,7 @@ Code release of paper: [**Training-free Zero-shot Composed Image Retrieval with 
 
 ![Overview](./assets/overview_version5.png)
 
-##### Stage 1: Global Retrieval Baseline
+## Stage 1: Global Retrieval Baseline
 We generate caption for the reference image, as "reference_caption", and "target_caption" with ChatGPT4-turbo. Both the "reference_caption" and "target_caption" are saved in directory: [here](https://github.com/SunTongtongtong/FreeLCR/tree/main/caption)
 
 <!-- ##### Stage 2: Local Concept Reranking -->
